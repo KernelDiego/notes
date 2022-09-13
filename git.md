@@ -35,7 +35,7 @@ git commit -m "Modifique x"
 ---
 ## Hacer un staging area y commit a la vez
 ```console
-git -am "Modifique x"
+git commit -am "Modifique x"
 ```
 
 ---
