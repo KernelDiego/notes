@@ -8,3 +8,5 @@ Siempre hago apuntes cuando aprendo cosas nuevas, y las voy a ir recopilando y s
 [Notas de Git](https://github.com/KernelDiego/notes/blob/main/git.md "Notas y apuntes sobre comandos de Git y GitHub")
 
 [Notas de Markdown](https://github.com/KernelDiego/notes/blob/main/markdown.md "Notas y apuntes sobre como utilizar Markdown")
+
+[Notas de comando chmod](https://github.com/KernelDiego/notes/blob/main/linux-chmod.md "Notas y apuntes sobre el comando chmod")
