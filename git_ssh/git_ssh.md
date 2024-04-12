@@ -92,8 +92,11 @@ eval $(ssh-agent -s)
 
 Luego vinculamos nuestra clave privada con nuestro agente administrativo cabe destacar que la clave es la generada anteriormente para github_wsl en el PASO 3
 
-<img width="100%" src="./images/11.png" alt="explicacion 10" />
+``` sh
+ssh-add ~/.ssh/github_wsl
+```
 
+<img width="100%" src="./images/11.png" alt="explicacion 10" />
 
 ---
 
