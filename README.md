@@ -12,3 +12,5 @@ Siempre hago apuntes cuando aprendo cosas nuevas, y las voy a ir recopilando y s
 [Notas de comando chmod](https://github.com/KernelDiego/notes/blob/main/linux-chmod.md "Notas y apuntes sobre el comando chmod")
 
 [Tutorial de Git SSH-KEY](https://github.com/KernelDiego/notes/blob/main/git_ssh/git_ssh.md "Notas sobre como generar y guardar una llave de ssh para github y tu terminal")
+
+[Borrar node_modules lockfile de forma recursiva](https://github.com/KernelDiego/notes/blob/main/delete-node_modules.md "Notas sobre como como borrar todas las carpetas node_modules/ y los archivos lockfile de forma recursiva")
